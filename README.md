@@ -1,4 +1,6 @@
 kenshub.github.io
 =================
 
-Kens GitHub Pages
+# Kens GitHub Pages
+
+Learning how GitHub Pages works.
